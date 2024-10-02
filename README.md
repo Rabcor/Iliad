@@ -1,5 +1,5 @@
 # Iliad
-Painting plugin with Blueprint brushes for Unreal Engine
+Painting plugin with Blueprint brushes for Unreal Engine made by Praxinos
 
 # Links
 [Official Repository](https://github.com/Praxinos/Iliad)  
